@@ -29,6 +29,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gmail.com) </br>marcelo.bracet1@gmail.com
 <br/>
 <br/>
-📞Telefone: (21) 99491-9288
+📞Telefone: +55 21 97174-2501
 
 
