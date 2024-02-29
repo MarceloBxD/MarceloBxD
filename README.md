@@ -1,12 +1,19 @@
-### Hey There, feel free to check out my profile!! 😉
 
-> Front End Developer but studying to become a fullstack  
+<div style="display: flex; justify-content: center;">
+Sinta-se Livre para Navegar pelo Meu Perfil | Feel Free to Check Out My Profile
+</div>
+
+<div style="display: flex; justify-content: center;">
+Estudando Para Me Tornar Um Fullstack | Studying To Become a Fullstack
+</div>
+
+
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-bracet-b51938223/)
 
 ![Marcelo GitHub stats](https://github-readme-stats.vercel.app/api?username=MarceloBxD&hide=contribs,prs&show_icons=true&theme=midnight-purple&layout=pie)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloBxD&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloBxD&hide_progress=true)
 
 <div style="display: inline_block"></br>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -30,18 +37,21 @@
     <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" alt="ESlint"/>
 </div>
 
-> Trabalhando atualmente com NextJS e Typescript em 99.9% dos projetos
+<br/>
 
-> Para minha organização, utilizo:
+><div style="display:flex; align-items: center; gap: 10px">
+Para minha organização, utilizo
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
+</div>
 
-> Para controle do Banco de Dados, faço uso do:
+><div style="display:flex; align-items: center; gap: 10px">
+Para controle do Banco de Dados, faço uso do
 <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma" />
+</div>
 
 ## Contact
-📞Telefone: +55 21 97174-2501
-<br/>
-<br/>
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gmail.com) </br>marcelo.bracet1@gmail.com
+📞 Telefone: +55 21 97174-2501
+
+
 
 
