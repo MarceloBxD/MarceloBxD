@@ -4,7 +4,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-bracet-b51938223/)
 
-![Marcelo GitHub stats](https://github-readme-stats.vercel.app/api?username=MarceloBxD&show_icons=true&theme=merko&layout=pie)
+![Marcelo GitHub stats](https://github-readme-stats.vercel.app/api?username=MarceloBxD&hide=contribs,prs&show_icons=true&theme=merko&layout=pie)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloBxD&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -26,9 +26,9 @@
 </div>
 
 ## Contact
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gmail.com) </br>marcelo.bracet1@gmail.com
-<br/>
-<br/>
 📞Telefone: +55 21 97174-2501
+<br/>
+<br/>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gmail.com) </br>marcelo.bracet1@gmail.com
 
 
