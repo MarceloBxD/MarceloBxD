@@ -4,7 +4,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-bracet-b51938223/)
 
-![Marcelo GitHub stats](https://github-readme-stats.vercel.app/api?username=MarceloBxDicons=true&theme=midnight-purple&layout=pie)
+![Marcelo GitHub stats](https://github-readme-stats.vercel.app/api?username=MarceloBxD?icons=true&theme=midnight-purple&layout=pie)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloBxD&hide_progress=true)
 
