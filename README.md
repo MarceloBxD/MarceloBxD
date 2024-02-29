@@ -32,15 +32,12 @@
 
 <br/>
 
-><div style="display:flex; align-items: center; gap: 10px">
-Para minha organização, utilizo
+> Para minha organização, utilizo <br/>
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
-</div>
 
-><div style="display:flex; align-items: center; gap: 10px">
-Para controle do Banco de Dados, faço uso do
+
+> Para controle do Banco de Dados, faço uso do <br/>
 <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma" />
-</div>
 
 ## Contact
 📞 Telefone: +55 21 97174-2501
