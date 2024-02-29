@@ -1,12 +1,5 @@
-
-<div style="display: flex; justify-content: center;">
-Sinta-se Livre para Navegar pelo Meu Perfil | Feel Free to Check Out My Profile
-</div>
-
-<div style="display: flex; justify-content: center;">
-Estudando Para Me Tornar Um Fullstack | Studying To Become a Fullstack
-</div>
-
+### Sinta-se Livre para Navegar pelo Meu Perfil | Feel Free to Check Out My Profile
+<br/>
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-bracet-b51938223/)
