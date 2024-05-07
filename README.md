@@ -1,4 +1,4 @@
-### Sinta-se Livre para Navegar pelo Meu Perfil | Feel Free to Check Out My Profile
+### Feel Free to Check Out My Profile | Sinta-se Livre para Navegar pelo Meu Perfil
 <br/>
 
 
@@ -32,14 +32,14 @@
 
 <br/>
 
-> Para minha organização, utilizo <br/>
+> For my personal organization | Para minha organização, utilizo <br/>
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
 
 
-> Para controle do Banco de Dados, faço uso do <br/>
+> For Database Management, I use | Para controle do Banco de Dados, faço uso do <br/>
 <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma" />
 
-## Contact
+## Contact | Contato 
 📞 Telefone: +55 21 97174-2501
 
 
